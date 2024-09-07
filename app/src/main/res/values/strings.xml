@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">CashFlow</string>
+    <string name="lancar">Lançar</string>
+    <string name="saldo">Saldo</string>
+    <string name="ver_lancamentos">Ver Lançamentos</string>
+    <string name="data_lancamento">Data Lançamento:</string>
+    <string name="valor">Valor:</string>
+    <string name="tipo">Tipo:</string>
+    <string name="detalhe">Detalhe:</string>
+
+    <string-array name="tipo_array">
+        <item>Crédito</item>
+        <item>Débito</item>
+    </string-array>
+
+    <string-array name="detalhes_credito_array">
+        <item>Salário</item>
+        <item>Extra</item>
+    </string-array>
+
+    <string-array name="detalhes_debito_array">
+        <item>Alimentação</item>
+        <item>Transporte</item>
+        <item>Saúde</item>
+        <item>Moradia</item>
+    </string-array>
+</resources>
